@@ -1,11 +1,10 @@
-# PEH roadmap
+# PEH roadmap (archived)
 
 PEH is the codename of a voxel colony sim in development for PC.
 
-This is its public roadmap. Each issue is one piece of work: what it is, why it
-matters, where it stands, and what has to be true for it to count as done.
-Issues close as the work ships, and the board groups them by milestone:
+This roadmap is archived. In November 2026 the game moved from Godot to an
+engine of its own, and the roadmap started over from item 1:
 
-https://github.com/users/starfoxcom/projects/7
+https://github.com/starfoxcom/PEH-roadmap-v2
 
-The roadmap is updated at the end of each work session.
+The issues here are kept read-only as the record of the Godot years.
